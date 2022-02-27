@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and vvonderfull prophesies by the Lady Eleanor Audeley; who is yet alive, and lodgeth in White-Hall. Which shee prophesied sixteen yeeres agoe, and had them printed in Holland, and there presented the said prophesies to the Prince Elector; for which she was imprisoned seven yeers here in England, by the late King and his Majesties Councell: first, she was put into the Gate-house then into Bedlam, and afterwards into the Tower of London. With notes upon the said prophesies, how farre the are fulfilled, and what part remains yet unfulfilled, concerning the late King; and Kingly government, and the armies and people of England. And particularly White-Hall, and other wonderfull predictions. Imprimatur Theodore Jennings August 27. 1649.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81678</idno>
+            <idno type="STC">Wing D2014</idno>
+            <idno type="STC">Thomason E571_28</idno>
+            <idno type="STC">ESTC R206128</idno>
+            <idno type="EEBO-CITATION">99865307</idno>
+            <idno type="PROQUEST">99865307</idno>
+            <idno type="VID">165361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165361)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and vvonderfull prophesies by the Lady Eleanor Audeley; who is yet alive, and lodgeth in White-Hall. Which shee prophesied sixteen yeeres agoe, and had them printed in Holland, and there presented the said prophesies to the Prince Elector; for which she was imprisoned seven yeers here in England, by the late King and his Majesties Councell: first, she was put into the Gate-house then into Bedlam, and afterwards into the Tower of London. With notes upon the said prophesies, how farre the are fulfilled, and what part remains yet unfulfilled, concerning the late King; and Kingly government, and the armies and people of England. And particularly White-Hall, and other wonderfull predictions. Imprimatur Theodore Jennings August 27. 1649.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson in Smithfield near the Queens head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165361:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>Strange and VVonderfull PROPHESIES BY The Lady ELEANOR AUDELEY; who is yet alive, and lodgeth in WHITE-HALL.</p>
+            <p>Which Shee Propheſied ſixteen yeeres agoe, and had them Printed in Holland, and there preſented the ſaid Propheſies to the Prince Elector; For which ſhe was impriſoned ſeven yeers here in <hi>England,</hi> by the late King and his Majeſties Councell: Firſt, ſhe was put into the Gate-houſe then into Bedlam, and afterwards into the Tower of LONDON.</p>
+            <p>With Notes upon the ſaid Propheſies, how farre they are fulfilled, and what part remains yet unfulfilled, concerning the late King; and Kingly Government, and the Armies and people of ENGLAND. And particu<g ref="char:EOLhyphen"/>larly White-Hall, and other wonderfull Predictions.</p>
+            <figure/>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Theodore Jennings</signed> 
+                           <dateline>
+                              <date>Auguſt 27. 1649.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London Printed for Robert Ibbitſon in Smithfield near the Queens head Tavern, 1649.</p>
+            <pb facs="tcp:165361:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="prophecies">
+            <pb facs="tcp:165361:3"/>
+            <!-- PDF PAGE 17 -->
+            <pb n="1" facs="tcp:165361:3"/>
+            <!-- PDF PAGE 17 -->
+            <head>
+               <hi>Strange and VVonderfull PROPHESIES BY</hi> The Lady <hi>Eleanor Audeley,</hi> who is yet alive, and lodgeth in White-Hall.</head>
+            <lg>
+               <l>TO<note n="a" place="margin">Thoſe that beleeve this pro<g ref="char:EOLhyphen"/>phecy.</note> 
+                  <hi>Sion</hi> moſt belov'd I ſing</l>
+               <l>
+                  <note n="b" place="margin">So the frequently called the Biſhops and Courtiers of <hi>En<g ref="char:EOLhyphen"/>gland.</hi>
+                  </note>of <hi>Babilon</hi> a Song,</l>
+               <l>Concerns you more full well I wot</l>
+               <l>then ye do thinke upon.</l>
+               <l>
+                  <note n="c" place="margin">The late King <hi>Charles</hi> whom in al her books ſhe cald <hi>Belſhaz<g ref="char:EOLhyphen"/>zer;</hi> becauſe the wal of the Ban<g ref="char:EOLhyphen"/>quetting houſe at <hi>White-Hal,</hi> where he feaſted, ſhould be terrible to him, as a writing on the wall was to <hi>Belſhazzer,</hi> which proved true, for there he was beheaded.</note>
+                  <hi>Belſhazzer,</hi> lo, behold the King</l>
+               <l>feaſting his thouſand Lords;</l>
+               <l>
+                  <hi>Phebus</hi> and <hi>Mars</hi> prais'd on each ſtring,</l>
+               <l>every day records.</l>
+            </lg>
+            <lg>
+               <l>The Temple Veſſels of Gods Houſe,</l>
+               <l>boldly in drunk about:</l>
+               <l>His<note n="d" place="margin">Here ſhe prophecied of his pawning and ſelling of his plate.</note> own (tis like) were made away,</l>
+               <l>bids holy things bring out;</l>
+               <l>
+                  <note n="e" place="margin">The pulling down of pictures and Organs in Churches.</note>Praiſing of Gold and Braſſe, the gods,</l>
+               <l>of Iron, Wood and Stone,</l>
+               <l>
+                  <note n="f" place="margin">All did riſe againſt him but the Court faction.</note>See, hear, nor know, but now alas,</l>
+               <l>praiſed in Court alone.</l>
+            </lg>
+            <lg>
+               <l>A<note n="g" place="margin">Here ſhee prophecied of the Kings death, which fell out true For the heads-man took the hatchet in his hand wher<g ref="char:EOLhyphen"/>with he was be-headed, on the wal of the Banquetting-houſe, after the King had drank a glaſſe of wine, at one blow or line of blood, in preſence of his then Equalls, for he dyed as <hi>Charles Stuart.</hi> After he had been ſcarce an houre upon the Scaffold, he fell downe on his knees, and ſo laid his neck on the block, with a pale gaſtly countenance, without any oppoſition.</note> hand appears, lo in his ſight,</l>
+               <l>as he did drinke the wine,</l>
+               <l>Upon the wall againſt the light</l>
+               <l>it wrote about a line</l>
+               <l>In preſence of his numerous Peers,</l>
+               <l>not ſet an hour full,</l>
+               <l>In loyns nor knees had he no might,</l>
+               <l>chang'd as a gaſtly skull.</l>
+            </lg>
+            <pb n="2" facs="tcp:165361:4"/>
+            <!-- PDF PAGE 18 -->
+            <lg>
+               <l>Who might it read, alas, the thing,</l>
+               <l>
+                  <hi>Belſhazzer</hi>
+                  <note n="i" place="margin">Here ſhe ſpeaks of the High Court of Juſtice, where the King pleaded hard, and ſo did the 3 Lords, but they were ſentenced for their Treaſons, &amp;c. and put to death, according to judgement denounced by the Lord Preſident in Scar<g ref="char:EOLhyphen"/>let.</note> loud did ſhout;</l>
+               <l>Calls for Magicians all with ſpeed.</l>
+               <l>came in, as wiſe went out.</l>
+               <l>Caldeans and Southſayers ſage,</l>
+               <l>the meaning whoſo can</l>
+               <l>Of <hi>Mene Mene</hi> third Realmes Peer</l>
+               <l>in Scarlet Robe the man.</l>
+            </lg>
+            <lg>
+               <l>His<note n="k" place="margin">The King did eate no Sup<g ref="char:EOLhyphen"/>per the night before he dyed.</note> majeſty forgets to Sup,</l>
+               <l>Nobles aſtoniſh'd all;</l>
+               <l>Muſitians may their pipes put up,</l>
+               <l>ſtood gazing on the Wall.</l>
+               <l>The<note n="l" place="margin">He dranke a glaſſe of wine a little before he came to ex<g ref="char:EOLhyphen"/>ecution.</note> pleaſant Wine at length as ſharpe,</l>
+               <l>too late till thought upon</l>
+               <l>Diviſion<note n="m" place="margin">His head was divided from his body.</note> of another ſtrain</l>
+               <l>unfolds the fingers long.</l>
+            </lg>
+            <lg>
+               <l>When<note n="n" place="margin">Here ſhee names the Ban<g ref="char:EOLhyphen"/>quetting-houſe, the very place where hee ſhould be execu<g ref="char:EOLhyphen"/>ted, and that before the hoſt or Army. And this did befall him, for being led by his Queen.</note> to the Banqueting houſe ſo wide,</l>
+               <l>Where hoſt of Lords did ring,</l>
+               <l>So wiſely came the gratefull Queen,</l>
+               <l>ſaid, <hi>Ever live, O King.</hi>
+               </l>
+               <l>
+                  <hi>Needs</hi>
+                  <note n="o" place="margin">This ſhe write to perſwade the King to beleeve her prophe<g ref="char:EOLhyphen"/>cy.</note> 
+                  <hi>trouble, O King, thy thoughts no more,</hi>
+               </l>
+               <l>
+                  <hi>forthwith ſhall it be read;</hi>
+               </l>
+               <l>Daniel <hi>there is who heretofore</hi>
+               </l>
+               <l>
+                  <hi>like doubts did open ſpread.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Could al interpretating Shew</l>
+               <l>which profound man ſcon brought,</l>
+               <l>On whom confer the King needs would</l>
+               <l>his<note n="p" place="margin">The King delivered His <hi>George</hi> to the Biſhop of <hi>London</hi> for P. <hi>Charles,</hi> but the Parlia<g ref="char:EOLhyphen"/>ment conſidering his raiſing forces againſt them would not let him have it.</note> orders high unſought.</l>
+               <l>Needleſſe preferments yours reſerve,</l>
+               <l>Sir, keep your gifts in ſtore,</l>
+               <l>High offices let others gaine,</l>
+               <l>there's given too much afore.</l>
+            </lg>
+            <lg>
+               <l>Yet unto thee ſhall here make known,</l>
+               <l>reſolve this Oracle true,</l>
+               <pb n="3" facs="tcp:165361:4"/>
+               <!-- PDF PAGE 18 -->
+               <l>Sure as in<note n="q" place="margin">Here ſhee ſet down the very place and manner of his exe<g ref="char:EOLhyphen"/>cution, which was true, for at the Banquetting-Houſe the King had his head cut off at one fatall blow.</note> thy Banquetting houſe,</l>
+               <l>where all that come may view:</l>
+               <l>The Veſſells of my God are brought,</l>
+               <l>the palm ſalutes thee know</l>
+               <l>Herewith; for theſe profan'd by thee</l>
+               <l>threatneth the fatall blow.</l>
+            </lg>
+            <lg>
+               <l>O King, even thou, the moſt high God</l>
+               <l>unto thy<note n="r" place="margin">His Grand-father was put to death in Scotland, which ſhe did uſually call <hi>Caldean</hi> Land.</note> Grandſire bold,</l>
+               <l>
+                  <hi>Caldean</hi> land, a Nation fell</l>
+               <l>gave them to have and hold.</l>
+               <l>The Royal Scepter and the Crown</l>
+               <l>advanc'd whom he would have,</l>
+               <l>And whom he would he pulled down,</l>
+               <l>could put to death and ſave:</l>
+            </lg>
+            <lg>
+               <l>Till walking at the twelve moneths end,</l>
+               <l>ſubject full Tides do fall;</l>
+               <l>Excellent<note n="s" place="margin">Here ſhee prophecyed that Monarchy ſhould ceaſe in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and White hal which was the Kings Court be turned in<g ref="char:EOLhyphen"/>to an hold for Souldiers.</note> Majeſty how gon,</l>
+               <l>Court exchang'd for the Stall.</l>
+               <l>Thy<note n="t" place="margin">Shee here prophecyed that hee ſhould as ſurely be put to death, as his Grand-father was, though not in the ſame man<g ref="char:EOLhyphen"/>ner.</note> Grandſire on, as came to paſſe;</l>
+               <l>at all yet minded not,</l>
+               <l>As if a feigned Story, but</l>
+               <l>his miſerable Lot.</l>
+            </lg>
+            <lg>
+               <l>Expell'd was for the words eſcap'd,</l>
+               <l>memory can ſpeak well,</l>
+               <l>Hardened in pride, unheard of ſuch,</l>
+               <l>the wilde Aſſe with did dwel:</l>
+               <l>Sent to the Ox, its owner knows,</l>
+               <l>
+                  <note n="u" place="margin">Here ſhee prophecied of the fouls which flew over the King when hee was at execution, to ſhew his folly, that hee would not know his time, but bring himſelf to that miſerable end.</note>undreamt of this his doom:</l>
+               <l>Fowls their appointed time obſerve,</l>
+               <l>wots not the night from noon.</l>
+            </lg>
+            <lg>
+               <l>Whoſe<note n="w" place="margin">Here ſhee prophecied that his Entrals ſhould bee taken out, and his body be imbalmed, which was true.</note> heart made equal with the Beaſt,</l>
+               <l>driven out with thoſe that Bray;</l>
+               <l>The Diadem as well fits thee,</l>
+               <l>Aſs, go, as much to ſay.</l>
+               <pb n="4" facs="tcp:165361:5"/>
+               <!-- PDF PAGE 19 -->
+               <l>
+                  <note n="x" place="margin">She ſpeakes this of his ſpiri<g ref="char:EOLhyphen"/>tual eſtate, that God in mer<g ref="char:EOLhyphen"/>cy hath ſaved his ſoul.</note>Until return'd came to himſelf,</l>
+               <l>knew him that rules on high,</l>
+               <l>Over the ſons of men appoints</l>
+               <l>what office they ſupply.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="y" place="margin">During the time of the Kings impriſonment, there were Guards upon him night and day.</note>During which ſpace, this Aſſyrian,</l>
+               <l>what watch kept night and day,</l>
+               <l>Thus metamorphys'd, over him,</l>
+               <l>leſt make himſelfe away.</l>
+               <l>
+                  <note n="z" place="margin">This fel out true, for he was much lamented, by thoſe of his own party eſpecially.</note>Fields, woods as wel ring out, as men</l>
+               <l>for wo, and Ecchoes call</l>
+               <l>Mercy this ſavage King upon,</l>
+               <l>in holy Temples all.</l>
+            </lg>
+            <lg>
+               <l>Bewailed, dejected ſoul, thus faln,</l>
+               <l>fed now grazing full low,</l>
+               <l>whilſt they bedew the ground with tears</l>
+               <l>
+                  <note n="a" place="margin">It was grown to a common Proverbe that the King knew not his friends from his foes, al being abas'd, and none dar<g ref="char:EOLhyphen"/>ing to ſtir or move for him.</note>diſcerns not friend from foe.</l>
+               <l>Earth that of late made ſeem to dawn</l>
+               <l>with ſongs of Triumph high,</l>
+               <l>Fleeth each wight abas'd as much,</l>
+               <l>among the Herd doth lye.</l>
+            </lg>
+            <lg>
+               <l>By<note n="b" place="margin">Speaking of her own family.</note> Star-light for device who gave,</l>
+               <l>as graven on his Shield,</l>
+               <l>An Eagle mounted on the Creſt,</l>
+               <l>a Hart in ſilver field.</l>
+               <l>Extold again his God as high,</l>
+               <l>bleſſed him all his days:</l>
+               <l>
+                  <note n="c" place="margin">Shee here blames thoſe that would not beleeve her.</note>Others reputes them as nothing,</l>
+               <l>alone proclaimes his praiſe.</l>
+            </lg>
+            <lg>
+               <l>Whoſe ſeven<note n="d" place="margin">Here ſhe prophecied of the very time ſeaven times ſeaven that is 49th year of his age, the King was be-headed.</note> times it ſerved forth,</l>
+               <l>in vain for reſt to crave;</l>
+               <l>Whom Devills Legions do poſſeſſe,</l>
+               <l>a Monarch turn'd a Slave.</l>
+               <l>Depoſed thus, thou kneweſt wel,</l>
+               <l>
+                  <hi>Belſhazzer,</hi>
+                  <note n="d" place="margin">Prince <hi>Charles.</hi>
+                  </note> O his Son,</l>
+               <pb n="5" facs="tcp:165361:5"/>
+               <!-- PDF PAGE 19 -->
+               <l>And renew'd ſo,<note n="e" place="margin">This fell out true for preſent<g ref="char:EOLhyphen"/>ly after the Kings death, the Houſe of Commons Voted <hi>England</hi> a deliverance from Monarchy.</note> deliverance is</l>
+               <l>voyced by every one.</l>
+            </lg>
+            <lg>
+               <l>A day a<note n="f" place="margin">An Act was pub<g ref="char:EOLhyphen"/>liſhed in al parts againſt king<g ref="char:EOLhyphen"/>ly Government, notwithſtand<g ref="char:EOLhyphen"/>ing the many favourites there<g ref="char:EOLhyphen"/>of, And Lords that the King uſed to call Coſens.</note> Trumpet made to ſound</l>
+               <l>for Generations all;</l>
+               <l>And with a Feaſt ſolemnized,</l>
+               <l>that no time might recal:</l>
+               <l>The memory of ſuch an act,</l>
+               <l>yet as it had not been,</l>
+               <l>Thy Favorites who are more this day,</l>
+               <l>or matched to thy Kin.</l>
+            </lg>
+            <lg>
+               <l>Then they<note n="g" place="margin">This is not yet fulfilled, but it ſeems to point out that the Kings Statues, and Armes ſhal be broken &amp; pulled down from all publick places, as he in his Reign had promoted Idolatry liberty on the Lords day, and other notorious ſins againſt God,</note> adoring. Wood and Stone,</l>
+               <l>Statues forſake Divine;</l>
+               <l>Meditate carved Statutes on</l>
+               <l>in Faction do combine,</l>
+               <l>With Enemies of God moſt high,</l>
+               <l>to thruſt him from his Thron,</l>
+               <l>And thus haſt lifted up thy ſelf.</l>
+               <l>ſo facile and ſo prone.</l>
+            </lg>
+            <lg>
+               <l>Againſt the Lord of Heaven thy King,</l>
+               <l>not humbling of thy heart,</l>
+               <l>But ſtiffened haſt with pride thy neck</l>
+               <l>unto thy future ſmart.</l>
+               <l>Behold, polluting holy things</l>
+               <l>with Sabbath ſo Divine,</l>
+               <l>Idolartry and Revells in</l>
+               <l>that day and night made thine,</l>
+            </lg>
+            <lg>
+               <l>But he in whoſe hand reſts thy life,</l>
+               <l>even breath, thy ways, and al,</l>
+               <l>Thou haſt not glorified him</l>
+               <l>ſent this wrote on the wal.</l>
+               <l>God numbered thy Kingdome hath</l>
+               <l>ended; the Hand points here,</l>
+               <l>In Ballance he hath weighed thee too,</l>
+               <l>the ſet hour drawing neer.</l>
+            </lg>
+            <pb n="6" facs="tcp:165361:6"/>
+            <!-- PDF PAGE 20 -->
+            <lg>
+               <l>How light ſoever by thee ſet,</l>
+               <l>thou as thy weightleſſe Gold,</l>
+               <l>His Image wanting, found much more</l>
+               <l>lighter then can be told.</l>
+               <l>
+                  <note n="h" place="margin">This is in part fulfilled by the Kings lands and goods new upon ſale.</note>Parted, divided thine Eſtate,</l>
+               <l>given to the <hi>Medes</hi> is,</l>
+               <l>At Hand, the Hand bids it adieu,</l>
+               <l>
+                  <note n="i" place="margin">She pophecies here that ther ſhal be no more Kings in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+                  </note>finiſh'd thy Majeſties.</l>
+            </lg>
+            <list>
+               <head>Anagr.</head>
+               <item>Reveale O Daniel.</item>
+               <item>Eleanor Audeley</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <p>
+               <figure/>
+            </p>
+            <pb n="6" facs="tcp:165361:7"/>
+            <!-- PDF PAGE 21 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
